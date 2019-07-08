@@ -59,7 +59,7 @@ spec:
             - name: MH_UI_BIND_ADDR
               value: "0.0.0.0:8080"
             - name: MH_MAILDIR_PATH
-              value: "/efs"
+              value: "/storage"
             - name: MH_SMTP_BIND_ADDR
               value: "0.0.0.0:2525"
             - name: MH_HOSTNAME
